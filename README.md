@@ -9,6 +9,8 @@
 ✨ I  am  a self-thought fullstack hobbydeveloper, a ui / ux designer and a fcking certified troll. Currently im working in real estate in Germany.
 
 
+[Hilarious](https://github.com/wheremyfoodat/Panda3DS/pull/535)
+
 ## My Skills
 🧑🏻‍💻 **Coding**
 - C++
