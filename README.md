@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I  am  a self-thought fullstack hobbydeveloper, a ui / ux designer and a fcking certified troll. Currently im working in real estate in Germany.
+✨ I  am  a self-thought fullstack hobbydeveloper and a ui / ux designer. Currently im working in software engineering in Germany.
 
 
 [buttplug](https://github.com/wheremyfoodat/Panda3DS/pull/535)
@@ -30,8 +30,6 @@
 - Adobe XD
 - Adobe Illustrator
 - Adobe Photoshop
-
-*Serious quest: Does somebody even like read this shit here?*
 
 
  
